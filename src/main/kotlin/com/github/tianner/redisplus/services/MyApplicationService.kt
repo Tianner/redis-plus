@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tianner.redisplus.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tianner.redisplus.MyBundle
 
 class MyApplicationService {
 
